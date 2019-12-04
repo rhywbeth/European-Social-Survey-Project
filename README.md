@@ -1,0 +1,2 @@
+# European-Social-Survey-Project
+This project uses the data collected in 2018/2019 during the 9th European Social Survey. The European Social Survey (ESS) is an academically driven cross-national survey that has been conducted across Europe since its establishment in 2001. Every two years, face-to-face interviews are conducted with newly selected, cross-sectional samples. The survey measures the attitudes, beliefs and behaviour patterns of diverse populations. 
